@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectPlan", "ProjectPlan\ProjectPlan.csproj", "{53E139BA-6304-44D8-AF29-C4E4F46BECFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectPlanAPI", "ProjectPlanAPI\ProjectPlanAPI.csproj", "{22E46B89-D871-4693-B309-333653EB126C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53E139BA-6304-44D8-AF29-C4E4F46BECFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53E139BA-6304-44D8-AF29-C4E4F46BECFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53E139BA-6304-44D8-AF29-C4E4F46BECFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53E139BA-6304-44D8-AF29-C4E4F46BECFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22E46B89-D871-4693-B309-333653EB126C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22E46B89-D871-4693-B309-333653EB126C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22E46B89-D871-4693-B309-333653EB126C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22E46B89-D871-4693-B309-333653EB126C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE3C93EC-24D2-428A-BE8F-AD3ACE2AF9F9}
+	EndGlobalSection
+EndGlobal
