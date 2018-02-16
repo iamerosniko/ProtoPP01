@@ -3,12 +3,12 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace API.Entities
 {
-    public class TaskCategories
+    public class Comments
     {
         [Key]
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
-        public int TaskCategoryID { get; set; }
-        public string TaskCategoryName { get; set; }
-        public string TaskCategoryDesc { get; set; }
+        public int CommentID { get; set; }
+        public int ProjectID { get; set; }
+        public int Comment { get; set; }
     }
 }
